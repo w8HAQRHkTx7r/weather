@@ -18,7 +18,7 @@ from secrets import APIKEY
 import requests
 import json
 
-cities = [{"city" : "Naperville", "lat" : 41.740289, "lon" : -88.099522},
+cities = [						#{"city" : "Naperville", "lat" : 41.740289, "lon" : -88.099522},
           {"city" : "Lisboa",     "lat" : 38.71,     "lon" : -9.14     },
           {"city" : "Evora",      "lat" : 38.57,     "lon" : -7.91     },
           {"city" : "Carmona",    "lat" : 37.470915, "lon" : -5.648573 },
