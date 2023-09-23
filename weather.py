@@ -1,3 +1,4 @@
+# Purpose: Display temperatures in Portugal/Spain cities
 import datetime
 from pprint import pprint
 
